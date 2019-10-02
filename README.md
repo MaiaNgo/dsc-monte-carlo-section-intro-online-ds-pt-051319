@@ -11,7 +11,7 @@ You will be able to:
 
 ## Resampling and Monte Carlo Simulation
 
-In this section we'll be introducing some additional statistical techniques that will be important as we move into module 3 and beyond.
+In this section, we'll be introducing some additional statistical techniques that will be important as we move into module 3 and beyond.
 
 ### Probability Distributions - a Recap
 
@@ -19,11 +19,11 @@ We kick off the section with a recap of some of the key probability distribution
 
 ### The Kolmogorov-Smirnov Test
 
-One of the most common assumptions for many machine learning algorithms is that your data set is normally distributed. In this lesson, we introduce the Kolmogorov-Smirnov test which can be used to test the whether a data set is normally distributed.
+One of the most common assumptions for many machine learning algorithms is that your data set is normally distributed. In this lesson, we introduce the Kolmogorov-Smirnov test which can be used to test whether a data set is normally distributed.
 
 ### Data Generation 
 
-Sometimes you just want to test the efficiency or performance of an algorithm with a certain type of data. When that is the case, you need to be able to generate a data set meeting a particular set of requirements. So next, we give you some hands on experience of generating synthetic data sets.
+Sometimes you just want to test the efficiency or performance of an algorithm with a certain type of data. When that is the case, you need to be able to generate a data set meeting a particular set of requirements. So next, we give you some hands-on experience of generating synthetic data sets.
 
 ### Resampling Methods
 
